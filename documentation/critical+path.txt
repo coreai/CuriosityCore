@@ -1,0 +1,16 @@
+CORE 
+-vision
+-goals
+
+GovernanceCore
+-voting
+-proposals
+
+CurrencyCore
+-blockchain
+-accounting
+
+HumanCore
+-UI
+-proof of identity
+-public opinion

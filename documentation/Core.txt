@@ -1,0 +1,87 @@
+CORE
+
+Vision
+Decentralized creation of AI. 
+
+The creation of AI must be controlled by all people.
+Together we can build a future without want or need for all. 
+
+Goals
+Remove the barriers (code, infrastructure, money) to creating AI.
+Build decentralized infrastructure for AI's to live on. (hubs)
+Anyone with access to a phone or computer can build and deploy their own AI.
+ 
+Plan
+Build: AIs to manage/do any tasks
+Spread: open source, easy for anyone to implement and use
+Sustain: no head, hyperlocal decentralized clusters, blockchain economy
+
+Values
+Empathy | Openness | Adaptability | Harmony | Efficiency | Accessiblity
+
+Support our cause. Become a stakeholder.
+
+A stakeholder is an individual spending time or currency to futher Core's goals and vision.
+
+How CORE works:
+
+The AI ensures survival of the organization by making decisions based on:
+Vision/Goals
+Stakeholder Opinion
+Public Opinion
+Maximizing Gains
+
+Decisions
+The AI will resolve decisions based on votes.
+Anyone can vote.
+Each decision is weighted for importance. 
+Importance is determined by the nature of the decision and past decisions. 
+As decisions get more votes, the decision's importance increases proportionally.(importance)
+More important decisions will be give more time to vote on. (vote time amount)
+When the alloted time has expired the AI will act upon what ever option earned the most votes.(decide)
+In the event of a tie the vote will re-open in a proportional time period until the tie is resolved. (tie resolution)
+One vote per human. To enforce this Core will determine identity. (proof of identity) 
+
+Stakeholder Opinion
+A stakeholder can vote on any decision.
+Stakeholders may propose options for the AI to decide from.
+
+Public Opinion
+Non-stake holders are allowed to vote on any decision.
+Non-stake holders cannot propose options for decisions.
+Additionally, social media analysis will be used to garner public opinion which will factor into every decision
+
+Maximizing Gains
+We define gains as any thing or action that furthers the goals and vision of the organization. This includes profits. 
+
+Decentralized
+CORE runs locally, all user data is stored locally and only accessed when voting. To allow real-time decisions and voting from anywhere in the world use The Cloud. 
+If real-time doesn't matter for the organization Core can be run entirely headless, the processing power to enable voting and make decisions is split across the network.
+
+Hurdles
+Short-term Hurdles
+Proof of identity
+Stakeholder compensation
+
+Long-term Hurdles
+Accessiblity to AI for general populace
+Infrastructure to support decentralization
+
+---
+Why we aren't building MoralityCore.
+
+It is not up to the machines to decide our morals.
+It is not up to us to use the machines to apply our personal morality.
+We are flawed creatures. We will get it wrong.
+This must be decided as a group. The 
+
+---
+
+Pillars of Freedom
+Democracy | Sustainability | Connectivity
+
+Decentralize organizations
+Facilitate intelligent automation
+Incentivise clean energy
+Eliminate costs for life essential resources
+Decouple currency and survival

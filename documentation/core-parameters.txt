@@ -1,0 +1,166 @@
+Core Parameters
+
+Vision
+A world where all resources are produced, distributed, and managed with sustainability, efficiency and equality. 
+
+Build the ultimate tool.
+Intuitive, Self-learning, Self-replicating systems that can be applied to solve any problem, do any task. 
+Artificial Intelligence created for everyone by everyone.
+Directed and controlled by human democracies.
+Built on Decentralized, Distributed Infrastructure.
+Powered by Clean Energies.
+Sustained by Evolution.
+
+Road Map
+Share the vision.
+Attract the willing.
+Build Template for Democratic Decentralized Organizations.
+Build Infrastructure that is sustainable, decentralized and distributed.
+Run Decentralized Organizations on Infrastructure.
+Build Systems that self-learn and self-replicate.
+Run Systems on Infrastructure.
+Support the Systems as they learn and grow.
+Attract society with intuitive usage and stable performance.
+
+Byproducts
+Eliminate the scarcity of essential resources. 
+Achieve a sustained existence for everyone.
+Eliminate the scarcity of non-essential resources.
+Achieve an economy of ideas.
+Evolve.
+
+Pillars
+Decentralized Organizations | Distributed Clean Energy | Artificial Intelligence
+Equality | Sustainability | Efficiency
+
+Goals
+    Make Core, a Decentralized Organization. 
+    Make Core Capitalistic. Individuals who contribute their time or money to further the goals of Core are stakeholders. 
+    Make Core Realistic. Large and/or frequent contributions gives the stakeholder more impact.
+    Make Core Democratic. - Stakeholders propose decisions.  Anyone can vote. All votes are equal. Votes are rewarded with currency.
+    Make Core easy to Use. - Create a well designed interface.
+    Make Core easy to Replicate. - Open source the code. 
+    Make Core Secure. - Use block-chain, smart contracts and proof of identity algorithms.
+    Make Core Transparent. - Record and Publish all activity.
+    Make Core Profitable. - Create CurrencyCore, crypto-currency built with accounting and transacting modules.
+    Make Core Decentralized. - Create ClusterCore, a protocol for connecting headless nodes. Create Hubs, clean energy positive feedback nodes to mine and store data.
+    Make Core Intelligent. - Create CuriosityCore, an AI framework that is Self-learning, Modular, Clustered, Accessible, Decentralized.
+    Make Core Sustainable. - Create EnergyCore, an AI to manage and facilitate transactions of decentralized clean energy generation.   
+
+Values
+    Empathy | Openness | Adaptability | Harmony | Efficiency | Accessibility
+
+Gains
+    Furthering the goals and vision of the organization.
+    
+
+Stakeholder
+    A stakeholder is any individual who contributes time, energy, or currency to further the goals and vision of the organization (gains).
+    Types - description (max network population)
+        builders - developers, installers (30%)
+        sustainers - miners, investors (35%)
+        spreaders - sharers, managers (30%)
+        system - core AI nodes (5%) 
+
+
+Contribution
+    Contribution is defined as either adding funds to a project or completing of tasks within a Project 
+    When a contribution is made, the network receives a notice to vote    
+    Individuals in the network can subscribe to notices for all contributions or for contributions linked to specific projects
+    The network votes up, down, neutral for each contribution
+    The votes are tallied into a contribution score
+    A contribution is accepted or rejected based on the contribution score it receives
+    The time-frame for accepting or rejecting a contribution increases with each vote
+    The base time-frame is 1 day.
+    Each positive vote removes time from the base time-frame adjusted for total number of active contributors in a project
+    Each negative vote adds time to the base time-frame adjusted for total number of active contributors in a project
+    adjusted-time-frame per vote = total_number_active_contributors +- 1 ms
+    An active contributor is one who has made a contribution sooner than the average time in which contributions are typically made in a project
+    active contributor = time_since_last_contribution_for_this_contributor >= average_time_since_last_contribution_for_every_contributor_within_project
+    Once the time-frame has expired the contribution is accepted or rejected
+    Voting for contributions never closes, even after acceptance or rejection
+    If a contribution's score becomes negative the contribution is rejected
+    If a contribution's score becomes positive the contribution is accepted
+
+Impact
+    Contribution scores for a stakeholder's contributions are summed and adjusted over time to determine the stakeholder's impact
+    impact = total_contribution_scores  / time_since_last_contribution
+    Stakeholders can spend their Impact for to submit Proposals.
+    The amount of Impact a stakeholder spends increases the base visibility of the Proposal.
+    Using Impact on a proposal deducts from the stakeholder's total Impact.
+    Once Impact is spent, it is gone.
+    Projects may also have Impact.
+    The more votes a project receives the more Impact it is given.
+
+Visibility
+    Visibility is how close to the top a proposal or project is within their respective lists
+    Visibility increases with each positive vote it receives.
+    One positive vote equals +1 visibility.
+    One negative vote equals -1 visibility.
+    The base visibility equals 0.
+    
+Proposals
+    Stakeholders can propose a project or parameter.
+    A Proposal base cost is 1 Impact.
+    Once a Proposal has been submitted it cannot be edited or deleted.
+
+Parameter
+    A parameter is a hard-coded rule the organization uses to function. 
+    A Proposal can be used to change an existing parameter or add a new parameter. 
+    A parameter proposal must include reasoning why a parameter should be changed or added.
+    Once a decision has been made to change or add a parameter then a project proposal can be made to enact the change.
+    
+
+Projects
+    A project is a set of tasks to be completed with a goal(s), timeline, budget and details.
+    A project proposal will be active or rejected when least 25% of the network has voted on it.
+    The voting for a project never closes.
+    The Impact of a project is determined by the number of votes it has.
+    An active project can be rejected if it's Impact becomes negative by a margin of 10% of the network.
+    A rejected project can become active if it's Impact become positive by a margin of 10% of the network.
+    To edit an active project a project-parameter proposal must be used created.
+    The project-parameter proposal is voted and determined using the contribution voting logic.
+    A project will be marked as completed when all tasks have been finished
+    CORE tracks the goals, timeline, budget and details of a project and compares it against other projects
+    A project is given a success score when completed
+    success_score = this_project_impact - average_project_impact
+    A project and each task within is scored based on it's timeliness
+    timeliness_score = (time_to_complete - average_time_to_complete) / proposed_time_to_complete
+    A budget score is assigned to a project
+    budget score = actual_spent - proposed_budget
+    CORE reads the project details using NLP
+    CORE compares projects to find similarities
+    CORE determines task type by type of contributor who complete the task, task details, similarity to other tasks, and contribution score of contribution that 
+    CORE will send tasks to contributors based on past tasks they have completed
+        
+Compensation
+    Compensation is dispersed in the form of network-currency
+    Stakeholders receive compensation when they contribute
+    Only stakeholders contributing to active projects can receive compensation for completing tasks.
+    Stakeholder compensation for a contributions is determined by the contribution's score.
+    The base contribution score for all contributions is 0
+    greater contribution score = greater compensation
+    compensation has a positive relation to contribution score. 
+    Each time a contribution score rises compensation is dispersed.
+    Compensation does not have a negative relation to contribution score.
+    Each time a contribution score falls, compensation is neither dispersed nor deducted. Nothing happens.
+    1 Positive vote for a contribution = 1 Currency dispersed to the stakeholder who made the contribution
+    A contribution with a negative contribution score will still receive compensation for each positive vote
+
+Bad Actors
+    If an individual's Impact goes below 51% of the network count that individual is banned from contributing
+    If an individual's project specific contribution score goes below 51% of the project count that individual is banned from contributing to that project
+    A bad Actor may redeem themselves with a project proposal that gets accepted by the network.
+    Upon a project being accepted the Bad Actor's contribution score is reset to zero.
+  
+Voting
+    Anyone/thing can vote
+    One vote per individual
+    Individual is defined as any human or machine capable of contributing to the network
+    Voting is used to accepted/reject proposals and contributions
+    Votes can be up, down, or neutral
+    Voting happens for proposals, projects, and contributions
+    
+
+
+

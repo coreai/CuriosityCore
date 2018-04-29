@@ -1,0 +1,14 @@
+CuriosityCore
+
+AI for all.
+
+An accessible platform for creating decentralized, modular, self-learning AI's
+
+Accessible. Interact with AI's using natural language or graphical interface.
+Self-Learning. AI's Learn any task and get better over time.
+Decentralized. Runs locally on any device/hardware using any data.
+Clustered. Can share data and computing power across a network.
+Modular. Connect or remove modules to easily implement or repurpose.
+
+We are showcasing this technology by building a decentralized organization, 
+CORE, managed by a CuriosityCore built AI and controlled by it's human stakeholders.

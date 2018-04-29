@@ -1,0 +1,7 @@
+The stack
+
+Managing Data: blockchain 
+    (anything you need network to agree on) helps dht reach consensus on the Data
+Storing Data: DHT (distributed hash table)
+Moving Data: protocol: IPFS -> content addressing
+

@@ -1,0 +1,1 @@
+geth --datadir ~/private_ethereum_blockchain --networkid 100 --nodiscover --nat none --mine --minerthreads 1 --ipcpath /home/notadmin/.ethereum/geth.ipc --rpc --rpcaddr 192.168.1.107  --rpcport 8545 --rpcapi 'web3,eth,debug,net,shh' --rpccorsdomain '*'

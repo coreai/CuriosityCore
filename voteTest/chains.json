@@ -1,0 +1,11 @@
+{
+  "0xc3a4640c0bd64a309ca4958151c66d1b2216cf19a8d384a3d7387a959d222efb": {
+    "contracts": {
+      "0xb377ede8a5436c4f1f20f90411efa79ca21353263443cf3aaebf5c8ccbe7290a": {
+        "name": "Voting",
+        "address": "0x21e5ea733695d9c6e9cfd465de5be4a2edb45e88"
+      }
+    },
+    "name": "development"
+  }
+}

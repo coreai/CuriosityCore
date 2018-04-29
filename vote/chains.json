@@ -1,0 +1,60 @@
+{
+  "0xcf804d057488dce33d087cfc1c21b09c7cf6c9439c3c83952dc26d1a3ace8c2e": {
+    "contracts": {
+      "0xb377ede8a5436c4f1f20f90411efa79ca21353263443cf3aaebf5c8ccbe7290a": {
+        "name": "Voting",
+        "address": "0xd701610f9adc0ca2572144fe060f407e7dceb982"
+      },
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0x680ea3f7e8b68fb4d3a8bca2ef1f3f1062495c0c"
+      }
+    },
+    "name": "development"
+  },
+  "0xb4dc7358333a6d2fcd4eb9207bc74c2fd569afb2b46ceadb5fc4d5291064353c": {
+    "contracts": {
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0x6d8f0ba806c15ac72e438388bc8cf38c54ea925c"
+      }
+    },
+    "name": "development"
+  },
+  "0x93c06e6bdcc7f2114f113a7ddb2ba6854a1cddf07e63f022d3fac42421037347": {
+    "contracts": {
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0x98bdfa69700d98a75ff1b0fee5ae0dfd6185c779"
+      }
+    },
+    "name": "development"
+  },
+  "0x9578c9b4561d3cd83c86fdbe2a59f12acf7bd80e6280d6b2f440c98e053ac43d": {
+    "contracts": {
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0xaeca8ed9f30f076b8409e649bcefc4014dd96194"
+      }
+    },
+    "name": "development"
+  },
+  "0x65396e448c8a537a25a0a626e7bd7392f44f51096592dcb4242d78e0a17a06bc": {
+    "contracts": {
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0x28ec62998e66857a501ce58451ba1160330eaf41"
+      }
+    },
+    "name": "development"
+  },
+  "0x0c1fc760782e17655d275815e0fb0033569b6b0f990cb195b67e3d056a8ec796": {
+    "contracts": {
+      "0x16d9806e2ffb5a46bef54727de60fdd91f4ceebf917ff40e898935538827f146": {
+        "name": "Voting",
+        "address": "0x9f184af82496db91c498d962c0e1bd8e58bd1135"
+      }
+    },
+    "name": "development"
+  }
+}
